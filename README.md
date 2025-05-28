@@ -21,10 +21,10 @@
     <img src="https://img.shields.io/badge/Tailwind CSS-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
     <img src="https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=redux&logoColor=white"/>
     <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=z&logoColor=white"/>
+    <img src="https://img.shields.io/badge/styled--components-db7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
     <img src="https://img.shields.io/badge/Storybook-ff4785?style=for-the-badge&logo=storybook&logoColor=white"/>
     <img src="https://img.shields.io/badge/MUI-007fff?style=for-the-badge&logo=mui&logoColor=white"/>
     <img src="https://img.shields.io/badge/Vite-646cff?style=for-the-badge&logo=vite&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Storybook-ff4785?style=for-the-badge&logo=storybook&logoColor=white"/>
     <img src="https://img.shields.io/badge/SASS-cc6699?style=for-the-badge&logo=sass&logoColor=white"/>
     <img src="https://img.shields.io/badge/Gulp-cf4647?style=for-the-badge&logo=gulp&logoColor=white"/>
     <img src="https://img.shields.io/badge/NPM-cb0000?style=for-the-badge&logo=npm&logoColor=white"/>
