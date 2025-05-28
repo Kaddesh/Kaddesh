@@ -1,5 +1,3 @@
-<!-- Banner image (replace with your own hosted banner or use a plain color) -->
-<img src="https://i.imgur.com/zYdrqae.png" alt="Kaddesh Banner" style="width:100%; height:auto;" />
 
 <h1 align="center">Hi there 👋, I'm Oludamola Ijimade</h1>
 <h3 align="center">🚀 Seasoned Software Engineer | Edutech & Fintech Innovator</h3>
