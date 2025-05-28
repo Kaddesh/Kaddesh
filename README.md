@@ -42,16 +42,6 @@
     <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
 </p>
 
-<p>
-  <strong>Frontend:</strong><br/>
-  <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind CSS-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=z&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MUI-007fff?style=for-the-badge&logo=mui&logoColor=white"/>
-</p>
-
 ---
 
 ### 🚀 Featured Projects
