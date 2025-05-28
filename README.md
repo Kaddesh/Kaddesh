@@ -1,75 +1,67 @@
-
-<h1 align="center">Hi there 👋, I'm Oludamola Ijimade</h1>
-<h3 align="center">🚀 Seasoned Software Engineer | Edutech & Fintech Innovator</h3>
-
+<h1 align="center">Hi, I'm Oludamola Ijimade 👋</h1>
 <p align="center">
-  <a href="https://my-portfolio-red-zeta-15.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%230A66C2.svg?&style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/oludamola-ijimade-3a341a1b3/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:Oludamolaijimade@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  A passionate Software Engineer who loves solving problems and building impactful products.<br />
+  I thrive in collaborative environments and enjoy working across the stack.
 </p>
 
 ---
 
-### 🧠 About Me
+### 🛠️ Tech Stack
+<p>
+  <strong>Languages:</strong><br/>
+  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GraphQL-e535ab?style=for-the-badge&logo=graphql&logoColor=white"/>
+</p>
 
-💡 I'm a **full-stack developer** passionate about clean architecture and purposeful UI/UX.  
-🛠️ I build scalable tools and modern web applications across **education** and **finance** sectors.  
-🤝 I love collaborating on open-source and remote projects. Let’s connect and create!
+<p>
+  <strong>Frontend:</strong><br/>
+  <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind CSS-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=z&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MUI-007fff?style=for-the-badge&logo=mui&logoColor=white"/>
+</p>
 
----
-
-### 🛠️ Tech Toolbox
-
-| Languages         | Frontend & Styling                                      | Tools & Workflow                          |
-|------------------|---------------------------------------------------------|-------------------------------------------|
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white) |
-
----
-
-### 🌟 Featured Projects
-
-| Project | Live Demo | Description |
-|--------|-----------|-------------|
-| 🍱 **TastyTrack** | [Visit](https://tastytrack.vercel.app/) | Dynamic food-ordering experience built with Next.js |
-| 🛍️ **EShopsy** | [Visit](https://kaddesh.github.io/EShopsy/) | Sleek, lightweight e-commerce interface |
-| 🏦 **Easybank** | [Visit](https://kaddesh.github.io/easybank-/) | Landing page design with modern fintech branding |
-| 📁 **GitMirror** | [Visit](https://gitmirror.vercel.app/) | Minimal GitHub repo viewer |
-| ⏱️ **Time Tracker** | [Visit](https://time-tracking-dashboard-pied-eight.vercel.app/) | Data dashboard showing modular design |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaddesh&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaddesh&layout=compact&theme=tokyonight" height="180" />
+<p>
+  <strong>Tools:</strong><br/>
+  <img src="https://img.shields.io/badge/Storybook-ff4785?style=for-the-badge&logo=storybook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SASS-cc6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gulp-cf4647?style=for-the-badge&logo=gulp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NPM-cb0000?style=for-the-badge&logo=npm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Yarn-2c8ebb?style=for-the-badge&logo=yarn&logoColor=white"/>
 </p>
 
 ---
 
-### 🌐 Let’s Connect
+### 🚀 Featured Projects
 
-<p align="center">
+- 🌟 [**TastyTrack**](https://tastytrack.vercel.app/)
+- 🛒 [**EShopsy**](https://kaddesh.github.io/EShopsy/)
+- 🏦 [**Easybank**](https://kaddesh.github.io/easybank-/)
+- 📁 [**GitMirror**](https://gitmirror.vercel.app/)
+- ⏱️ [**Time Tracker**](https://time-tracking-dashboard-pied-eight.vercel.app/)
+
+See more on [my portfolio site](https://my-portfolio-red-zeta-15.vercel.app/)
+
+---
+
+### 📫 Let's Connect
+
+<p>
+  <a href="mailto:oludamolaijimade@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/oludamola-ijimade-3a341a1b3/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:Oludamolaijimade@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-SendMail-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Kaddesh">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-_Thank you for visiting! 🤝 Let’s build something amazing together._
-
-
-
+<p align="center">🚀 Always learning. Always building. Always improving.</p>
